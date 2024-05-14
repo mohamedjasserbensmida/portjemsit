@@ -34,7 +34,7 @@ const Projects = () => {
   
   <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10 mt-10"> {/* Added mt-10 for margin-top */}
     <ProjectCard
-      src="/newnew.PNG"
+      src="/newnew.png"
       title="Gestion des Stocks"
       description="Révélez le potentiel de vos investissements avec notre application dynamique de point de vente (POS) et de gestion des stocks, révolutionnant la gestion financière avec intégration transparente."
       href="https://www.jemsit.com/#/agence"
