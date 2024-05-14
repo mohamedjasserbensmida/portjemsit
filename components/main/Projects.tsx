@@ -34,7 +34,7 @@ const Projects = () => {
   
   <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10 mt-10"> {/* Added mt-10 for margin-top */}
     <ProjectCard
-      src="/AZEAR3.PNG"
+      src="/newnew.PNG"
       title="Gestion des Stocks"
       description="Révélez le potentiel de vos investissements avec notre application dynamique de point de vente (POS) et de gestion des stocks, révolutionnant la gestion financière avec intégration transparente."
       href="https://www.jemsit.com/#/agence"
@@ -46,7 +46,7 @@ const Projects = () => {
       href="https://www.jemsit.com/"
     />
     <ProjectCard
-      src="/AZER1.png"
+      src="/bebebe.png"
       title="private property"
       description="Trouvez votre espace idéal parmi des milliers de propriétés à vendre, louez ou vendez votre bien sur notre plateforme pour une visibilité maximale."
       href="https://www.privateproperty.co.za/"
